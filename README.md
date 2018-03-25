@@ -1,5 +1,3 @@
 # Wrangle Report
-Downloaded tweet data of WeRateDogs using Twitter’s API
-Heavily cleaned the data to make it analysiable 
-Created visualizations to understand the data in python 
-Found correlation between content and popularity
+Our objective was to analysis the twitter page of WeRateDogs. WeRateDogs posts pictures of dogs with amusing captions and assigns ratings to each dog. I first downloaded tweet data of WeRateDogs using Twitter’s API, I also downloaded all image data. After going through the datasets, lots of tidiness and quality errors were found and I had to heavily clean the data to make it analysable. Entries with duplicate, missing and inaccurate data had to be cleaned. Data types had to be changed. The dataset had to be merged and made into proper tidy format. Then visualisations were made to understand the data in python. 
+From our linear relationship plot we saw a very strong correlation between favouriting and retweeting. The slow and steady growth in fluctuations of retweets in a sign that as people got more familiar with the channel. And higher ratings attracted more retweets.
